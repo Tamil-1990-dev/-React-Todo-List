@@ -1,49 +1,32 @@
-# ✅ React Todo List
+# React Todo List
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/todo-list.png" alt="Todo List"/>
-</p>
+A simple Todo List application built using React.js.
 
-<p align="center">
-A simple and responsive Todo List application built with <strong>React.js</strong> that helps users organize and manage their daily tasks efficiently.
-</p>
+## Project Description
 
----
+This project is a small frontend application that allows users to manage daily tasks.
 
-## 📖 Project Summary
+Users can:
 
-The **React Todo List** is a beginner-friendly task management application developed using **React.js** and **React Hooks**. It allows users to create, edit, update, and delete tasks while tracking completed and pending activities in real time.
+- Add tasks
+- Edit tasks
+- Delete tasks
+- Mark tasks as completed
+- Mark tasks as incomplete
+- View completed task count
+- View remaining task count
 
-This project demonstrates the core concepts of React, including **components**, **state management**, **event handling**, and **conditional rendering**, making it an excellent portfolio project for frontend development.
+## Technologies Used
 
----
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- React Hooks
+- JSX
+- ReactDOM
 
-## ✨ Features
-
-* ➕ Add new tasks
-* ✏️ Edit existing tasks
-* 🗑️ Delete tasks
-* ✅ Mark tasks as completed
-* 🔄 Mark completed tasks as incomplete
-* 📊 View completed task count
-* ⏳ View remaining task count
-* 📱 Responsive and user-friendly interface
-
----
-
-## 🛠️ Technologies Used
-
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript (ES6)
-* ⚛️ React.js
-* 🪝 React Hooks
-* 🧩 JSX
-* ⚙️ ReactDOM
-
----
-
-## 📂 Project Structure
+## Project Structure
 
 ```text
 react-todo-app/
@@ -52,41 +35,3 @@ react-todo-app/
 ├── style.css
 ├── app.js
 └── README.md
-```
-
----
-
-## 🎯 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-* ⚛️ Building interactive user interfaces with React.js
-* 🪝 Managing application state using React Hooks
-* 🎯 Handling user events efficiently
-* 📝 Performing CRUD (Create, Read, Update, Delete) operations
-* 🎨 Designing responsive web interfaces
-* 💡 Improving problem-solving and frontend development skills
-
----
-
-## 🚀 Future Improvements
-
-* 💾 Save tasks using Local Storage
-* 🔍 Search and filter tasks
-* 🌙 Dark Mode
-* 📅 Add due dates
-* 🏷️ Task categories
-* 🔔 Reminder notifications
-
----
-
-## 👨‍💻 Author
-
-**Tamilmani**
-
-🌐 GitHub: https://github.com/Tamil-1990-dev
-
----
-
-### ⭐ If you found this project useful, don't forget to Star the repository!
-
